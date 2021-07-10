@@ -1,0 +1,18 @@
+body {
+	background-image: url(img/background-site.jpg);
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  
+}
+
+footer {
+	margin-top: auto;
+	padding: 10px;
+    text-align: center;
+    background-color: #6cb077;
+    color: aliceblue;
+}
