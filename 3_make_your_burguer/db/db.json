@@ -102,10 +102,10 @@
       "id": 4
     },
     {
-      "nome": "asfada",
+      "nome": "Asparga",
       "carne": "Alcatra",
       "pao": "3 Queijos",
-      "opicionais": [
+      "opcionais": [
         "Cheddar",
         "Tomate",
         "Salame"
@@ -114,16 +114,50 @@
       "id": 5
     },
     {
-      "nome": "José Vinícius HenrIque Pereira",
+      "nome": "José Vinícius",
       "carne": "Picanha",
       "pao": "Italiano Branco",
-      "opicionais": [
+      "opcionais": [
         "Cebola roxa",
         "Tomate",
         "Pepino"
       ],
       "status": "Solicitado",
       "id": 6
+    },
+    {
+      "nome": "Henrique Pereira",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cheddar",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "Claudio",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    },
+    {
+      "nome": "Mathias",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 9
     }
   ]
 }
