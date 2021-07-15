@@ -148,16 +148,6 @@
       ],
       "status": "Solicitado",
       "id": 8
-    },
-    {
-      "nome": "Mathias",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 9
     }
   ]
 }
