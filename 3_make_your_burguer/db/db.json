@@ -98,7 +98,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     },
     {
@@ -110,7 +110,7 @@
         "Tomate",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -122,7 +122,7 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 6
     },
     {
