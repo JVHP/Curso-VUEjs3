@@ -122,7 +122,7 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 6
     },
     {
@@ -134,20 +134,8 @@
         "Salame",
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 7
-    },
-    {
-      "nome": "Claudio",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }
